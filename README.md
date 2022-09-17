@@ -1,3 +1,9 @@
+
+
+https://user-images.githubusercontent.com/61631923/190845094-7a05cc8a-d53a-4716-ac43-fd24d461a8b7.mov
+
+
+
 # NOTES BY ALEXANDER BUI ABOUT THIS DASHBOARD PROJECT
 
 # AUG 25
