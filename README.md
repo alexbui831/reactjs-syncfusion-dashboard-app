@@ -1,6 +1,9 @@
 
+<img width="1440" alt="Screen Shot 2022-09-18 at 9 03 29 PM" src="https://user-images.githubusercontent.com/61631923/190939215-32ad7b00-408f-4572-9024-19a088972902.png">
 
-https://user-images.githubusercontent.com/61631923/190845094-7a05cc8a-d53a-4716-ac43-fd24d461a8b7.mov
+<img width="1440" alt="Screen Shot 2022-09-18 at 9 03 34 PM" src="https://user-images.githubusercontent.com/61631923/190939219-21e0dc97-5638-49f2-8bfa-e95d608c2c3c.png">
+
+<img width="1440" alt="Screen Shot 2022-09-18 at 9 03 35 PM" src="https://user-images.githubusercontent.com/61631923/190939224-b6c92196-e394-4135-a3cb-a9e15341f17e.png">
 
 
 
