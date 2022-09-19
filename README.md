@@ -7,29 +7,19 @@
 
 
 
-# NOTES BY ALEXANDER BUI ABOUT THIS DASHBOARD PROJECT
-
-# AUG 25
+# Coding Notes by Alexander for Ingalls Internship Summer 2022
 
 The importance of creating an app with correct file structure allows easier management throughout the whole coding process
-
-# AUG 26
 
 There was an error code:
 'Line' is not defined react/jsx-no-undef
 'Editor' is not defined react/jsx-no-undef
 I fixed it by looking through the components first but couldn't find anything, then I realized it must be something with the imports and fixed it by adding 'Line' and 'Editor" in the imports
 
-# AUG 27
-
 An issue when I had the activeMenu = 'true', the Navbar would still be opened. It was due to a '$' character I thought I had to use before an '{activeMenu}' call in my ` string
-
-# AUG 28
 
 A contextProvider is used to pass data data through a component tree without having to manually pass props,
 JSX does not allow class=, u need className=
-
-# SEPT 1
 
 Syncfusion is really useful for creating data tables, makes adding functionalities way easier
 Issue with deconstructing a color value realizing it did not need any deconstructing due to it already being a string
